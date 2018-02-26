@@ -1,6 +1,3 @@
- section.row {
-    background-color: yellow;
-}
 body {
     margin: 0;
 }
@@ -15,3 +12,8 @@ header,footer {
 div#content {
     margin: 10px;
 }
+
+ section.row {
+    background-color: yellow;
+}
+
